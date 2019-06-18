@@ -1,0 +1,74 @@
+c:\users\михаил\documents\visual studio 2015\Projects\KONSULTANT+\KONSULTANT+\bin\Debug\KONSULTANT+.exe.config
+c:\users\михаил\documents\visual studio 2015\Projects\KONSULTANT+\KONSULTANT+\bin\Debug\KONSULTANT+.exe
+c:\users\михаил\documents\visual studio 2015\Projects\KONSULTANT+\KONSULTANT+\bin\Debug\KONSULTANT+.pdb
+c:\users\михаил\documents\visual studio 2015\Projects\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT+.csprojResolveAssemblyReference.cache
+c:\users\михаил\documents\visual studio 2015\Projects\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT_.Properties.Resources.resources
+c:\users\михаил\documents\visual studio 2015\Projects\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT+.csproj.GenerateResource.Cache
+c:\users\михаил\documents\visual studio 2015\Projects\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT+.exe
+c:\users\михаил\documents\visual studio 2015\Projects\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT+.pdb
+C:\Users\михаил\Documents\Visual Studio 2015\Projects\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT_.Common_cons.resources
+C:\Users\михаил\Documents\Visual Studio 2015\Projects\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT_.login_screen.resources
+C:\Users\михаил\Documents\Visual Studio 2015\Projects\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT_.main_cons.resources
+C:\Users\михаил\Documents\Visual Studio 2015\Projects\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT_.admin_panel.resources
+C:\Users\михаил\Desktop\KONSULTANT+\KONSULTANT+\bin\Debug\KONSULTANT+.exe.config
+C:\Users\михаил\Desktop\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT+.exe
+C:\Users\михаил\Desktop\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT+.pdb
+C:\1All\Work\Дипломы\KONSULTANT+\KONSULTANT+\bin\Debug\KONSULTANT+.exe.config
+C:\1All\Work\Дипломы\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT+.exe
+C:\1All\Work\Дипломы\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT+.pdb
+C:\1All\Work\Дипломы\KONSULTANT+\KONSULTANT+\bin\Debug\KONSULTANT+.exe
+C:\1All\Work\Дипломы\KONSULTANT+\KONSULTANT+\bin\Debug\KONSULTANT+.pdb
+C:\1All\Work\Дипломы\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT+.csprojResolveAssemblyReference.cache
+C:\1All\Work\Дипломы\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT_.admin_panel.resources
+C:\1All\Work\Дипломы\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT_.login_screen.resources
+C:\1All\Work\Дипломы\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT_.main_cons.resources
+C:\1All\Work\Дипломы\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT_.Properties.Resources.resources
+C:\1All\Work\Дипломы\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT_.common_cons.resources
+C:\1All\Work\Дипломы\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT+.csproj.GenerateResource.Cache
+E:\12.04.19\KONSULTANT+\KONSULTANT+\bin\Debug\KONSULTANT+.exe.config
+E:\12.04.19\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT+.exe
+E:\12.04.19\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT+.pdb
+E:\12.04.19\KONSULTANT+\KONSULTANT+\bin\Debug\KONSULTANT+.exe
+E:\12.04.19\KONSULTANT+\KONSULTANT+\bin\Debug\KONSULTANT+.pdb
+E:\12.04.19\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT+.csprojResolveAssemblyReference.cache
+E:\12.04.19\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT_.admin_panel.resources
+E:\12.04.19\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT_.login_screen.resources
+E:\12.04.19\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT_.main_cons.resources
+E:\12.04.19\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT_.Properties.Resources.resources
+E:\12.04.19\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT_.common_cons.resources
+E:\12.04.19\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT+.csproj.GenerateResource.Cache
+E:\16.04.19\KONSULTANT+\KONSULTANT+\bin\Debug\KONSULTANT+.exe.config
+E:\16.04.19\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT+.exe
+E:\16.04.19\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT+.pdb
+E:\16.04.19\KONSULTANT+\KONSULTANT+\bin\Debug\KONSULTANT+.exe
+E:\16.04.19\KONSULTANT+\KONSULTANT+\bin\Debug\KONSULTANT+.pdb
+E:\16.04.19\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT+.csprojResolveAssemblyReference.cache
+E:\16.04.19\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT_.admin_panel.resources
+E:\16.04.19\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT_.login_screen.resources
+E:\16.04.19\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT_.main_cons.resources
+E:\16.04.19\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT_.Properties.Resources.resources
+E:\16.04.19\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT_.common_cons.resources
+E:\16.04.19\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT+.csproj.GenerateResource.Cache
+E:\16.04.19\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT_.message_page.resources
+C:\1All\Work\Дипломы\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT_.message_page.resources
+C:\1All\Work\Дипломы\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT_.history_page.resources
+C:\1All\Work\Дипломы\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT_.client_work_page.resources
+C:\Users\дом1\Desktop\KONSULTANT+\KONSULTANT+\bin\Debug\KONSULTANT+.exe.config
+C:\Users\дом1\Desktop\KONSULTANT+\KONSULTANT+\bin\Debug\KONSULTANT+.exe
+C:\Users\дом1\Desktop\KONSULTANT+\KONSULTANT+\bin\Debug\KONSULTANT+.pdb
+C:\Users\дом1\Desktop\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT+.csprojAssemblyReference.cache
+C:\Users\дом1\Desktop\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT+.csproj.ResolveComReference.cache
+C:\Users\дом1\Desktop\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT_.admin_panel.resources
+C:\Users\дом1\Desktop\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT_.client_work_page.resources
+C:\Users\дом1\Desktop\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT_.history_page.resources
+C:\Users\дом1\Desktop\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT_.login_screen.resources
+C:\Users\дом1\Desktop\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT_.main_cons.resources
+C:\Users\дом1\Desktop\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT_.message_page.resources
+C:\Users\дом1\Desktop\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT_.Properties.Resources.resources
+C:\Users\дом1\Desktop\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT_.common_cons.resources
+C:\Users\дом1\Desktop\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT+.csproj.GenerateResource.cache
+C:\Users\дом1\Desktop\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT+.csproj.CoreCompileInputs.cache
+C:\Users\дом1\Desktop\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT+.exe
+C:\Users\дом1\Desktop\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT+.pdb
+C:\Users\дом1\Desktop\KONSULTANT+\KONSULTANT+\bin\Debug\Xceed.Words.NET.dll
+C:\Users\дом1\Desktop\KONSULTANT+\KONSULTANT+\obj\Debug\KONSULTANT+.csproj.CopyComplete
